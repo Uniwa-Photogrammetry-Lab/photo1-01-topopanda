@@ -1,3 +1,8 @@
+#1η άσκηση στη φωτο 1
+## Νικολέττα Τσιφλά
+## ΑΜ: geo22391089
+## εξάμηνο: 6ο
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
